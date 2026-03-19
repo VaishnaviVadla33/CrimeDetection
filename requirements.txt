@@ -1,0 +1,31 @@
+# Crime Detection & Violence Detection System
+# Python 3.8+ required
+
+# Core Deep Learning
+tensorflow>=2.11.0
+keras>=2.11.0
+
+# Web Framework
+streamlit>=1.28.0
+streamlit-webrtc>=0.42.0
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Data Processing
+numpy>=1.23.0
+scikit-image>=0.20.0
+
+# Media Processing
+av>=10.0.0
+Pillow>=10.0.0
+
+# Additional Utilities
+matplotlib>=3.7.0
+scipy>=1.10.0
+tqdm>=4.65.0
+
+# Optional for GPU support (uncomment if using GPU)
+# tensorflow-gpu>=2.11.0
+# tensorflow[and-cuda]>=2.13.0
