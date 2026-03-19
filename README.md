@@ -173,21 +173,6 @@ Models trained on:
 - Maintain proper data handling practices
 - Regular model validation on diverse data
 
-## 📄 License
-
-[Add your license here - e.g., MIT, Apache 2.0]
-
-## 👥 Authors
-
-- **Your Name** - Computer Vision Project, Semester 7
-
-## 📞 Support
-
-For issues or questions:
-1. Check the troubleshooting section
-2. Review model paths and file locations
-3. Verify all dependencies are installed
-
 ## 🎓 Project References
 
 - TensorFlow/Keras Documentation: https://www.tensorflow.org/
@@ -197,5 +182,3 @@ For issues or questions:
 
 ---
 
-**Last Updated:** March 2026  
-**Status:** Production Ready
